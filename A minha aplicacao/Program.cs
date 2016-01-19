@@ -16,7 +16,7 @@ namespace A_minha_aplicacao
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmArvore());
+            Application.Run(new frmFicheiros());
         }
     }
 }
