@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="A_minha_aplicacao.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="peso1" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.65</Value>
+    </Setting>
+    <Setting Name="peso2" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.15</Value>
+    </Setting>
+    <Setting Name="peso3" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.20</Value>
+    </Setting>
+    <Setting Name="valorDollar" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1.3538</Value>
+    </Setting>
+    <Setting Name="valorCoroaSueca" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">9.196</Value>
+    </Setting>
+    <Setting Name="valorEscudoCaboVerde" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">110.265</Value>
+    </Setting>
+    <Setting Name="valorReal" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">2.7137</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
