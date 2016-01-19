@@ -41,7 +41,7 @@ namespace A_minha_aplicacao
                 {
                     if (j%2 == 1)
                     {
-                        lblArvore.Text += "|";
+                        lblArvore.Text += "O";
                     }
                     else
                     {
